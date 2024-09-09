@@ -1,0 +1,1 @@
+ // delete(posi->next->data);
